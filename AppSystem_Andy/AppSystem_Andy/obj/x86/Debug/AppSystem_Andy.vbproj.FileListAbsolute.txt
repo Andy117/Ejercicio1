@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\bin\Debug\AppSystem_Andy.exe
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\bin\Debug\AppSystem_Andy.pdb
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\bin\Debug\AppSystem_Andy.xml
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\obj\x86\Debug\AppSystem_Andy.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\obj\x86\Debug\AppSystem_Andy.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\obj\x86\Debug\AppSystem_Andy.exe
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\obj\x86\Debug\AppSystem_Andy.xml
+C:\xampp\htdocs\ejercicio1\AppSystem_Andy\AppSystem_Andy\obj\x86\Debug\AppSystem_Andy.pdb
