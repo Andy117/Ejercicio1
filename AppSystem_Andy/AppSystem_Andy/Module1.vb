@@ -3,7 +3,8 @@
     Sub Main()
 
         Console.WriteLine("Prueba de github")
-        Console.Writeline("Linea editada")
+        Console.WriteLine("Linea editada")
+        Console.WriteLine("Sexto informatica")
         Console.ReadKey()
     End Sub
 
